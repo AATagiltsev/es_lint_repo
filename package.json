@@ -1,0 +1,24 @@
+{
+  "name": "es_lint_repo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "eslint": "^8.56.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AATagiltsev/es_lint_repo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AATagiltsev/es_lint_repo/issues"
+  },
+  "homepage": "https://github.com/AATagiltsev/es_lint_repo#readme"
+}
